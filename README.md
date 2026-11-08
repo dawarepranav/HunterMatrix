@@ -1,6 +1,6 @@
 # HunterMatrix
 
-Heads-up short-deck 5-card PLO bot by **Beta Dancers**.
+Heads-up short-deck 5-card PLO bot by **beta-dancer**.
 
 HunterMatrix plays 36-card short deck (ranks 6 through ace), five hole cards, pot-limit betting. It serves decisions over HTTP so a match judge can deal hands to it.
 
@@ -25,7 +25,7 @@ The server listens on port 5008. Set `PORT` to use another port:
 PORT=5010 python agent.py
 ```
 
-`PARTICIPANT` is `TeamHunter` and `AGENT_NAME` is `HunterMatrix` in `agent.py`.
+`PARTICIPANT` is `beta-dancer` and `AGENT_NAME` is `HunterMatrix` in `agent.py`.
 
 ## Layout
 
